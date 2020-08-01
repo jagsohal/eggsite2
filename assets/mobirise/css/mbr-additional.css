@@ -958,7 +958,7 @@ a {
 }
 .cid-s1YLZwONfz .dropdown-menu,
 .cid-s1YLZwONfz .navbar.opened {
-  background: #e0131e !important;
+  background: #191919 !important;
 }
 .cid-s1YLZwONfz .nav-item:focus,
 .cid-s1YLZwONfz .nav-link:focus {
@@ -1149,8 +1149,8 @@ a {
   transition: all 0.3s;
 }
 .cid-s1YLYYtmhw {
-  padding-top: 105px;
-  padding-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 45px;
   background-color: #040402;
 }
 .cid-s1YLYYtmhw H1 {
